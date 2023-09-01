@@ -1,0 +1,398 @@
+{
+  "public_identifier": "fanch-daniel-7474ab24",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/fanch-daniel-7474ab24/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230830%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230830T120943Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b3787b9f09139fba16398d4ac3296de2be3243c4e791926950f6a6614943d8a5",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/fanch-daniel-7474ab24/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230830%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230830T120943Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f3641403da5c52ed39c01439556184c8eabc141b0d9787f94b91991e713919a4",
+  "first_name": "Fanch",
+  "last_name": "Daniel",
+  "full_name": "Fanch Daniel",
+  "follower_count": 2061,
+  "occupation": "✔ Dirigeant d'entreprise ✔ Agence Digitale at Digi-bo",
+  "headline": "✔ Dirigeant d'entreprise ✔ Agence Digitale chez Digi-bo",
+  "summary": "💡 Le cœur de mon expertise \n✅ Réalisez des webinaires fortement différenciants en dématérialisant vos ateliers, tables rondes, ou des conférences.\n\n✅  En moins de 1h, Digi-Bo installe un véritable plateau TV capable de diffuser sur une ou plusieurs plateformes en simultané (Linkedin, YouTube, Twitter et Facebook.)\nNous mixons plusieurs caméras et des incrustations de slide pour créer un média percutant.\n\n🚀 Accélérons ensemble votre business !",
+  "country": "FR",
+  "country_full_name": "France",
+  "city": "Rennes",
+  "state": "Bretagne",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2019
+      },
+      "ends_at": null,
+      "company": "Digi-bo",
+      "company_linkedin_profile_url": null,
+      "title": "✔ Dirigeant d'entreprise ✔ Agence Digitale",
+      "description": "Vous cherchez une solution de streaming flexible qui puisse s’adapter à de nombreuses situations et être installée rapidement ?\n\nChez Digi-Bo, nous avons conçu une solution modulaire qui démocratise la captation et la diffusion",
+      "location": "Région de Paris, France",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2008
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2011
+      },
+      "company": "CRCI Haute Normandie",
+      "company_linkedin_profile_url": null,
+      "title": "Chargé de mission TIC",
+      "description": "Accompagne et conseille des décideurs de Haute-Normandie\n- Gestion d'un action collective de 135 k€\n- Consultant en stratégie de développement web\n- Organisation d’évènements (Journée EMK, Google Academy,Villes Normandes Numériques)\n- Animation de conférences et de formations",
+      "location": "Rouen",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2007
+      },
+      "ends_at": {
+        "day": 29,
+        "month": 2,
+        "year": 2008
+      },
+      "company": "Nantes Métropole Développement",
+      "company_linkedin_profile_url": null,
+      "title": "Assistant Responsable Marketing Communication",
+      "description": "- Collecte et analyse de données relatives au tissu économique\n- Préconisations de stratégies utilisant internet pour accroître la visibilité du territoire et son attractivité.",
+      "location": null,
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "E-illi (Elan Créateur)",
+      "company_linkedin_profile_url": null,
+      "title": "Dirigeant",
+      "description": "Conception et développement d'une plateforme de blog multimédia visant à permettre aux acteurs de la musique (groupes et salles de sepectacles) de disposer d'un site internet multimédia permettant d'héberger de diffuser de la musique en streaming.",
+      "location": "Rennes",
+      "logo_url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2018
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2019
+      },
+      "company": "CCI Portes de Normandie",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/cci-portes-de-normandie",
+      "title": "Dir'Com",
+      "description": "- Définition d'une stratégie de communication (Acquisition, SEO, social selling, Content marketing, parcours client)\n- Management de l'équipe de Com' (3 personnes)\n- Coordination de projets avec des partenaires\n- Organisation de grands évènements (SilverDay Normandy, Hackathon, salon des métiers d'art d'Alençon, Nuit de l'Orientation) \n- Réalisation d'un site e-commerce et d'outils de gestion : \npermisdexploitationplus.fr ( e-commerce, chatbot)  \n\n- Coaching de collaborateurs (Stratégie d'acquisition client, social selling, marketing d'offres)\n- Animation de groupes projets (Nouvelles offres, parcours clients)\n- Création de contenus audiovisuels (Série Entrepreneurs in progress)\n- Stratégie d'acquisition client et déploiement (Adword, facebook ads, Campagnes Linkedin)\n- Définition de l'identité d'un incubateur aerospace & industry :  Kpsul - Le booster 4.0  \n\n- Plan de communication multicanal pour de gros évènements (Facebook adds + community management + affichage urbain + campagnes radios locales) >> Plus de 2000 participants à la Nuit de l'Orientation 2019 soit une augmentation de 100% !)\n\n            \n\n    \n    \n\n    \n        Voir moins",
+      "location": "Région de Évreux, France",
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHjH3VDVJON3Q/company-logo_100_100/0/1646678369679?e=2147483647&v=beta&t=dweL7rElrp4zH4jcchdvyVGlf1L8VSFMHSQEVBOj7no"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2018
+      },
+      "company": "CCI Normandie",
+      "company_linkedin_profile_url": "https://fr.linkedin.com/company/cci-normandie",
+      "title": "Responsable de l'ORETIC - Conseiller Technologie de L'information et de la Communication",
+      "description": "Conférencier, Spécialiste de l’e-marketing et de technologies clefs du web, responsable de l’observatoire du numérique de la CCI Normandie. Nos travaux portent sur l’analyse des besoins des entreprises et l’identification de solutions. Nous identifions les usages du numérique apportant une haute valeur ajoutée et les façons de faire progresser les entreprises dans l’économie numérique.\n\n\nResponsables de l'Observatoire Régional Du Numérique\n- Production audio-visuelle (Interviews, motion design, conférences)\n- Mise en place de dispositifs de veille économique et d'un réseau de veilleurs\n- Organisation de Focus Groupes\n- Organisation d'enquêtes quantitatives\n- Analyse statistique des données\n\nConseille et accompagne des décideurs de Normandie\n- Consultant en stratégie de développement web\n- Spécialiste de l'E-marketing / Gestion de projet Web\n- Organisation d'évènement\n- Conférencier\n            \n\n    \n    \n\n    \n        Voir moins",
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQEhLvIW1O6ehg/company-logo_100_100/0/1676448148126?e=2147483647&v=beta&t=8Bp3bUXK0nMiE8JQRlbA0OkkzA0RzofmrlTxEvrvayM"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2007
+      },
+      "field_of_study": "Marketing et Communication",
+      "degree_name": "M2",
+      "school": "Sciences Com'",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": null,
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2004
+      },
+      "field_of_study": "Neurosciences, Psychologie, Communication",
+      "degree_name": "Maîtrise Sciences du Langage",
+      "school": "Université Rennes II - Haute-Bretagne",
+      "school_linkedin_profile_url": null,
+      "description": "Etude des rapports texte / illustration dans les interfaces graphiques",
+      "logo_url": null,
+      "grade": "Mention Bien",
+      "activities_and_societies": null
+    }
+  ],
+  "languages": ["Anglais", "Français"],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 500,
+  "people_also_viewed": [
+    {
+      "link": "https://fr.linkedin.com/in/jean-baptiste-decultot-4ab520109",
+      "name": "Jean-Baptiste Decultot",
+      "summary": "Responsable des ventes vehicules industriels chez MARTENAT",
+      "location": "Rouen et périphérie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/emeric-buschel-8b8167155",
+      "name": "Emeric Buschel",
+      "summary": "Cadre commercial véhicules industriels chez Iveco Redele Rouen",
+      "location": "Rouen et périphérie"
+    },
+    {
+      "link": "https://tz.linkedin.com/in/merissa-firchett-30aba173",
+      "name": "merissa firchett",
+      "summary": "CLEARING AGENT at FREIGHT IN TIME",
+      "location": "Tanzanie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/bonnevalle-stephane-302470102",
+      "name": "bonnevalle stephane",
+      "summary": "directeur d&​#39;agence chez BAIL ACTEA",
+      "location": "Rouen"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/amandine-fougeray-5a5616232",
+      "name": "Amandine Fougeray",
+      "summary": "Diététicienne - Nutritionniste, Étudiante à l'UCO BN - Guingamp",
+      "location": "Saint-Brieuc"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/cyrilbourez",
+      "name": "Cyril Bourez",
+      "summary": "Chef de projet / Formateur technique / Gestion relation client",
+      "location": "France"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/rhita-lamtahri-aa0737135",
+      "name": "Rhita Lamtahri",
+      "summary": "Incident manager - Consultante santé, PhD",
+      "location": "Clamart"
+    },
+    {
+      "link": "https://mq.linkedin.com/in/lisiane-patrice-42b4b0136",
+      "name": "Lisiane PATRICE",
+      "summary": "Assistante administrative et commerciale (en recherche active d’un emploi)",
+      "location": "Le Lamentin"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/marc-le-formal-bb2022217",
+      "name": "Marc LE FORMAL",
+      "summary": "--",
+      "location": "Marseille"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/maudmaluenda",
+      "name": "Maud Maluenda",
+      "summary": "Digital Manager",
+      "location": "Paris et périphérie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/christophe-mery-83871421",
+      "name": "Christophe MERY",
+      "summary": "Co-fondateur Digitrotter - Agence Digitale spécialisée Tourisme l Patrimoine l Culture l Artisanat",
+      "location": "Bordeaux"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/jordiliguori",
+      "name": "Jordi Liguori",
+      "summary": "Marketing Digital 👓 / Social Media Manager 👨‍🏫",
+      "location": "Château-Chinon (Ville)"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/gratien-caffiers-718b21111",
+      "name": "Gratien CAFFIERS",
+      "summary": "Responsable de programmes chez NEXITY IMMOBILIER D'ENTREPRISE",
+      "location": "Paris"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/alexandre-lemarchand-a7b9a0118",
+      "name": "alexandre lemarchand",
+      "summary": "Chargé de clientèle CAP MARINE ASSURANCES groupe SIACI SAINT HONORE  département IARDT spécialité flotte automobile TPM",
+      "location": "Rouen et périphérie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/opale-m-08b914249",
+      "name": "Opale M.",
+      "summary": "Apprenti ouvrier chez Menuiserie Dubuc",
+      "location": "Rouen et périphérie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/laure-lunven-653143b2",
+      "name": "Laure LUNVEN",
+      "summary": "Responsable communication",
+      "location": "La Forêt-Fouesnant"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/christophe-delescluse-837782133",
+      "name": "Christophe Delescluse",
+      "summary": "Expert en crédit immobilier chez LOGIFINANCES",
+      "location": "Lille"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/waaec",
+      "name": "sébastien baudoin",
+      "summary": "Fondateur chez 77700.fr",
+      "location": "Paris et périphérie"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/alizeta-ouedraogo-419499238",
+      "name": "Alizeta Ouedraogo",
+      "summary": "Affréteuse",
+      "location": "Montpellier"
+    },
+    {
+      "link": "https://fr.linkedin.com/in/olivier-bardin",
+      "name": "Olivier BARDIN",
+      "summary": "IT Security Ninja🥷 ☠️",
+      "location": "France"
+    }
+  ],
+  "recommendations": [
+    "Anna Mojzesz\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          Nous avons fait appel à Fanch de nombreuses fois pour réaliser la captation de nos MoHoTalks. Une personne réactive, force de proposition et passionnée par son métier. Merci Fanch pour la qualité de tes prestation, ton professionnalisme et ta sympathie !",
+    "Andrew Patry\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          J'ai pu assister à l'expérience Media-Training avec Fanch pour la réalisation d'un interview et j'ai trouvé son approche très constructive et innovante. Il a été d'une extrême gentillesse et trouve toujours les bons mots pour rassurer l'interviewé et le mettre dans une position confortable pour l'interview. \nAu delà de cet accompagnement, la vidéo est parfaitement réalisé. \nUn grand plaisir de pouvoir travailler avec Fanch."
+  ],
+  "activities": [
+    {
+      "title": "#XportDay #Normandie le 28/06/23 à Caen, l'INPI France et la CNCPI - Compagnie Nationale des Conseils en Propriété Industrielle vous présenteront les…",
+      "link": "https://www.linkedin.com/posts/renaudkempf_xportday-normandie-propri%C3%A9t%C3%A9industrielle-activity-7074640759001346048-m9Iw",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "Merci à la Communauté d'agglomération Seine Eure pour son invitation à participer à la table ronde \"Enjeux logistiques et engagements des acteurs du…",
+      "link": "https://www.linkedin.com/posts/samuelneufville_supplychain-transport-d%C3%A9carbonation-activity-7070072572268158976-UVOU",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "Mission Environnement 🍀 💧 Connaissez vous la Voies navigables de France 🏞 qui a remporté vos suffrages en région #ouest ? La Loire bénéficiera…",
+      "link": "https://www.linkedin.com/posts/laetitia-de-charentenay-godenne-8b1427_ouest-biodiversit%C3%A9-environnement-activity-7069270615987236864-HcDl",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "🔥 Il est temps pour moi de vous l'annoncer officiellement ! J'ai rejoint le HANGAR 107 - Centre d'Art Contemporain en tant que Directrice depuis…",
+      "link": "https://www.linkedin.com/posts/claire-michel-8a0aa2154_artcontemporain-direction-challenge-activity-7062718352296681472-fRpW",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "[Événement - Créathon]Penser la ville durable avec le vivant ? 🤔Avec nos copains makesense et Ceebios, nous sommes heureux d’avoir co-organisé…",
+      "link": "https://www.linkedin.com/posts/moho-nation_cr%C3%A9athon-activity-7059454689754439680-qLGb",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "[Deplastify Week - Clean Walk]Tu le sais peut-être déjà mais fin mai, Paris accueillera la deuxième session de négociations du Traité mondial de…",
+      "link": "https://www.linkedin.com/posts/moho-nation_grande-collecte-de-d%C3%A9chets-activity-7057292852308914176-ziUr",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "🎥 L’Aftermovie est de sortie ! Nous avons le plaisir de vous présenter le film retour sur Le Festival des Entrepreneurs 2023 ⚡ qui a animé la CCI…",
+      "link": "https://www.linkedin.com/posts/cci-caen-normandie_laftermovie-est-de-sortie-nous-avons-activity-7054333591853428736-Zaoq",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "Hier soir, la CCI Rouen Métropole accueillait la conférence de presse de L'Armada de la Liberté - Armada 2023. Trois annonces ont été faites : 👉…",
+      "link": "https://www.linkedin.com/posts/cci-rouen-metropole_armada2023-rouen-normandie-activity-7052202887275237376-OBEP",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "Mission Environnement 🍀 : plongez au cœur de vos régions et votez pour votre projet préféré !Et si vous n’étiez qu’à quelques clics d’aider à la…",
+      "link": "https://www.linkedin.com/posts/laetitia-de-charentenay-godenne-8b1427_fill-mission-environnement-plongez-au-activity-7051610095171833856-jElQ",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "🌟 Une soirée inoubliable à Angers : la #résilience et l'#inclusion en action avec AXA 🌟Je tiens à remercier chaleureusement Laetitia de…",
+      "link": "https://www.linkedin.com/posts/fanch-daniel-7474ab24_soir%C3%A9e-ev%C3%A9nement-axa-avec-michael-j%C3%A9r%C3%A9miasz-activity-7051825851729866752-MnSD",
+      "activity_status": "Partagé par Fanch Daniel"
+    },
+    {
+      "title": "👀 Moi quand je cherche le/la prochain.e pépite qui m’épaulera sur la com du MoHo. Après 2 ans à gérer la com du MoHo, j’ai pris la sage décision…",
+      "link": "https://www.linkedin.com/posts/anna-mojzesz-0563b115b_moi-quand-je-cherche-lela-prochaine-activity-7036270368679960577-ztK3",
+      "activity_status": "Aimé par Fanch Daniel"
+    },
+    {
+      "title": "Si quelqu'un est intéressé pour essayer le navigateur ARC (uniquement sur MacOS), demandez moi en commentaire, j'ai 5 invitations :) Alexandre…",
+      "link": "https://www.linkedin.com/posts/fanch-daniel-7474ab24_si-quelquun-est-int%C3%A9ress%C3%A9-pour-essayer-le-activity-7031565532541669377-HBYG",
+      "activity_status": "Publié par Fanch Daniel"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Fañch Morvan -- Roncier",
+      "link": "https://fr.linkedin.com/in/fa%C3%B1ch-morvan-roncier-88374620b",
+      "summary": "Étudiant en prépa TSI , admis à l'IMT atlantique en informatique réseaux et télécommunications",
+      "location": "Saint-Brieuc"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [
+    "Web 2.0",
+    "E Commerce",
+    "Community Management",
+    "Seo",
+    "Project Management",
+    "Social Media",
+    "Marketing Strategy",
+    "Management",
+    "Php",
+    "French",
+    "Team Management",
+    "Html5",
+    "Gestion De Projet",
+    "Change Management",
+    "Marketing"
+  ],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
